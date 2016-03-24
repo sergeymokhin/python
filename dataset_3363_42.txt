@@ -1,0 +1,4 @@
+Dunce;65;61;49
+Derrick;95;69;100
+Chesterton;66;74;94
+Cramer;74;90;54
