@@ -1,3 +1,4 @@
+#https://stepic.org/lesson/Файловый-вводвывод-3363/step/2
 import re
 
 with open('dataset_3363_2.txt', 'r') as s:
