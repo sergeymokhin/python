@@ -5,7 +5,7 @@ def fib(n):
     l.insert(1, 1)
     for i in range(2, n):
         l.append(l[i-1] + l[i-2])
-    return l
+    return l[n-1]
 
 
 
